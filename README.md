@@ -32,6 +32,6 @@ Here's, the visual representation of the model architecture, including the input
 
 ### Evaluation
 
-**BLEU-1 Score :** 0.544
+**BLEU-1 Score :** 0.536
 
-**BLEU-2 Score :** 0.319
+**BLEU-2 Score :** 0.311
