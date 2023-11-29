@@ -17,17 +17,17 @@ We use the dataset available at https://www.kaggle.com/datasets/adityajn105/flic
 
 Here's, the visual representation of the model architecture, including the input and output shapes of each layer.
 
-![architecture](https://github.com/prernasingh05/CodeClause_Image_Caption_Generator/assets/98377151/c80f0fed-f3e6-463c-b3aa-493f847ca49a)
+![architecture](https://github.com/MurariPavanSai/Image-Caption-Generator/blob/main/assets/architecture.png)
 
 ## Generating Captions Example
 
 ### Example - 1
 
-![img predict 1](https://github.com/prernasingh05/CodeClause_Image_Caption_Generator/assets/98377151/2ce09610-1369-4dc9-bb96-006fb3dece65)
+![img predict 1](https://github.com/MurariPavanSai/Image-Caption-Generator/blob/main/assets/img%20predict%201.PNG)
 
 ### Example - 2
 
-![img predict 2](https://github.com/prernasingh05/CodeClause_Image_Caption_Generator/assets/98377151/3ab03fe5-23c9-4d4b-abb2-e052b11ba6cb)
+![img predict 2](https://github.com/MurariPavanSai/Image-Caption-Generator/blob/main/assets/img%20predict%202.PNG)
 
 
 ### Evaluation
